@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+}
+#container{
+  background: url(https://static.zerochan.net/Pixiv.Id.4353549.full.1405570.jpg); no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+border: 1px solid white;
+border-radius: 5px;
+}
+#fun{
+
+  width: 94%;
+  /* height: 200px; */
+  border: 3px solid black;
+  border-radius: 4px;
+  margin-left: 20px;
+  /* margin: 4px; */
+  margin-bottom: 4px;
+  margin-top: 4px;
+
+}
+#poke{
+  /* background: url(https://orig00.deviantart.net/95ef/f/2016/311/0/f/pokemon_twitch_theme_a_2a_by_masterq2-danm4kn.gif); no-repeat center center fixed; */
+  background: lightblue; no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+font-size: 26px;
+border: 2px solid green;
+/* height: 400px; */
+width: 50%;
+}
+#status{
+  border: 2px solid blue;
+  border-radius: 4px;
+  background-color: red;
+  width: 100%;
+  /* margin-left: 920px; */
+  color: white;
+  font-size: 26px;
+}
+img{
+  background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NGTYhyRhgilq4uu1a/videoblocks-seamless-abstract-animation-motion-graphic-soft-space-particle-background-pattern-with-abstract-energy-or-aura-waves-light-space-moving-in-colorful-light-background-texture-pattern-shape-in-4k-ultra-hd-loop_h_2mfsblb_thumbnail-full01.png); no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
+}
+/* #take{
+  background: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/pokedex-background-6.png); no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+} */
